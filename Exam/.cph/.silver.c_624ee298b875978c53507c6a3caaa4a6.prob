@@ -1,0 +1,1 @@
+{"name":"Local: silver","url":"e:\\Projects\\C_Examples\\Exam\\silver.c","tests":[{"id":1747912027469,"input":"20 30 5 1000 29999 800 900 2000 1 25 35 25 999999\n","output":"1 5 20 25 25 30 35 800 900 1000 2000 29999"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Projects\\C_Examples\\Exam\\silver.c","group":"local","local":true}
