@@ -1,0 +1,1 @@
+{"name":"Local: expand","url":"e:\\Projects\\C_Examples\\24级第一次作业\\expand.c","tests":[{"id":1740659192026,"input":"ADEa-g-m02","output":"ADEabcdefghijklm02"},{"id":1740659213725,"input":"cdeT-bcd","output":"cdeT-bcd"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Projects\\C_Examples\\24级第一次作业\\expand.c","group":"local","local":true}
