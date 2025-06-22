@@ -28,7 +28,7 @@ Node *createList(int n)//创建一个n个结点的链表
         p = q;
     }
     return list;
-}//调用：head = createList(n);
+}//调用：head = createList(n);单循环链表则把最后一个结点连接到head上
 
 Node *insertNode(Node *list, int data)//有序列表中插入结点
 {

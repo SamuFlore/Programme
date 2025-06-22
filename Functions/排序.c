@@ -39,6 +39,10 @@ void selectSort(int arr[], int n)
             arr[d] = arr[i];
             arr[i] = tmp;
         }
+        for (int i = 0; i < n; i ++)
+        {
+            printf("%d ", arr[i]);
+        }
     }
 }
 
@@ -201,9 +205,9 @@ void mergeSort(int arr[], int n)
 
 int main()
 {
-    int arr[] = { 15, 12, 7, 10, 5, 1, 3, 9 };
-    insertSort(arr, 8);
-    for (int i = 0; i < 8; i ++)
+    int arr[] = { 2,12,16,70,5,10 };
+    selectSort(arr, 6);
+    for (int i = 0; i < 6; i ++)
     {
         printf("%d ", arr[i]);
     }
